@@ -1,2 +1,2 @@
-i am inside test1 file
+this is first line in test1 file in feature2 branch
 

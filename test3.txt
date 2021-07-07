@@ -1,2 +1,2 @@
-i am in firstline in test3 file
+this is thrid line in test3 file in feature2 branch
 
